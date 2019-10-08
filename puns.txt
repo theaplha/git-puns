@@ -20,6 +20,7 @@ kaal kare se aaj kar, aaj kare so ab. Jaldi changes push karde, band na ho jaye 
 
 koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 ek bar jo maine commit kr diya fir maine apne aap ki bhi nhi sunta
+my repo,my rules
 
 
 
