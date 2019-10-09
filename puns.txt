@@ -22,7 +22,7 @@ koi commit chhota nahi hota, aur commit se bada koi push nahi hota.
 ek bar jo maine commit kr diya fir mai apne aap ki bhi nhi sunta
 my repo,my rules
 eat,prey,love but first commit
-isko commit kr daala ,toh life jingalala
+isko commit kr daala ,toh life jingalala.
 
 
 
